@@ -1,49 +1,96 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ALPHA TECH</title>
-<style>
-body{font-family:Arial;background:#0b0b0b;color:#fff;margin:0}
-.container{padding:20px;max-width:900px;margin:auto}
-h1,h2{color:#00ff88}
-table{width:100%;border-collapse:collapse;margin:15px 0}
-td,th{border:1px solid #333;padding:8px}
-button{background:#00ff88;color:#000;padding:12px;border:none;border-radius:6px;font-weight:bold}
-a{color:#00ff88;text-decoration:none}
-</style>
+
 </head>
+
 <body>
 <div class="container">
 
-<h1>ALPHA TECH</h1>
-<p>Assistência Técnica & Streaming</p>
+<header>
+  <h1>ALPHA TECH</h1>
+  <p>Assistência Técnica & Streaming</p>
+  <div class="badge">Android & iPhone • Todos os Modelos</div>
+</header>
 
-<h2>📱 Serviços</h2>
+<section>
+<h2>🚀📱 Seu celular quebrou, travou ou bloqueou?</h2>
+<p><strong>👉 A ALPHA TECH RESOLVE NA HORA!</strong></p>
+<ul>
+<li>🔧 Conserto rápido</li>
+<li>🧩 Peças de qualidade</li>
+<li>🔓 Desbloqueios completos</li>
+<li>🎬 Contas de streaming</li>
+</ul>
+</section>
+
+<section>
+<h2>🛠️ Fazemos tudo em celular</h2>
+<ul>
+<li>✅ Troca de tela</li>
+<li>✅ Troca de bateria</li>
+<li>✅ Conector de carga</li>
+<li>✅ Câmera, alto-falante e microfone</li>
+<li>✅ Reparo de placa mãe</li>
+<li>✅ Formatação e sistema</li>
+<li>✅ Celular lento ou travando</li>
+</ul>
+</section>
+
+<section>
+<h2>🍎 iPhone também é aqui</h2>
+<ul>
+<li>🔹 Troca de tela</li>
+<li>🔹 Troca de bateria</li>
+<li>🔹 Restauração do iOS</li>
+<li>🔹 Reparo de placa</li>
+<li>🔹 Backup e recuperação de dados</li>
+</ul>
+</section>
+
+<section>
+<h2>🔓 Desbloqueio na veia</h2>
+<ul>
+<li>🔥 Remoção de Conta Google (FRP)</li>
+<li>🔥 Remoção de Conta Mi</li>
+<li>🔥 Remoção de iCloud</li>
+<li>🔥 PIN, senha ou padrão</li>
+<li>🔥 Serviços compatíveis com iCloud</li>
+<li>🔥 Desbloqueio de operadora</li>
+<li>🔥 Reset e sistema completo</li>
+</ul>
+</section>
+
+<section>
+<h2>🎬📺 Streaming barato é aqui</h2>
 <table>
-<tr><th>Serviço</th><th>Descrição</th></tr>
-<tr><td>Troca de Tela</td><td>Android e iPhone</td></tr>
-<tr><td>Troca de Bateria</td><td>Bateria viciada</td></tr>
-<tr><td>Conector de Carga</td><td>Não carrega</td></tr>
-<tr><td>Formatação</td><td>Sistema lento</td></tr>
+<tr><th>Serviço</th><th>Status</th></tr>
+<tr><td>Netflix</td><td>Disponível</td></tr>
+<tr><td>Prime Video</td><td>Disponível</td></tr>
+<tr><td>Disney+</td><td>Disponível</td></tr>
+<tr><td>HBO Max</td><td>Disponível</td></tr>
+<tr><td>Spotify</td><td>Disponível</td></tr>
+<tr><td>YouTube Premium</td><td>Disponível</td></tr>
+<tr><td>Deezer</td><td>Disponível</td></tr>
+<tr><td>Outros</td><td>Consulte</td></tr>
 </table>
+</section>
 
-<h2>🔓 Desbloqueios</h2>
-<table>
-<tr><td>Conta Google</td></tr>
-<tr><td>Conta Mi</td></tr>
-<tr><td>iCloud</td></tr>
-</table>
+<section>
+<h2>📍 Atendimento Presencial</h2>
+<p>
+Alto Guaramiranga<br>
+Rua José Veloso Jucá, nº 2407<br>
+Loja Moisés Motos
+</p>
+</section>
 
-<h2>🎬 Streaming</h2>
-<p>Netflix • Prime Video • Disney+ • Spotify</p>
+<div class="buttons">
+<a class="whatsapp" href="https://wa.me/555199842881">📲 Chamar no WhatsApp</a>
+<a class="instagram" href="https://instagram.com/alphatech.caninde">📸 Instagram</a>
+</div>
 
-<a href="https://wa.me/555199842881">
-<button>📲 Falar no WhatsApp</button>
-</a>
-
-<p>📍 Alto Guaramiranga – Loja Moisés Motos</p>
+<footer>
+⚡ <strong>ALPHA TECH – Resolve ou resolve!</strong><br>
+👨‍🔧 Vinícius & Jennyfer
+</footer>
 
 </div>
 </body>
