@@ -5,7 +5,7 @@
 <div class="container">
 
 <header>
-  <h1>ALPHA TECH</h1>
+  <h1>ALPHA TESTE</h1>
   <p>Assistência Técnica & Streaming</p>
   <div class="badge">Android & iPhone • Todos os Modelos</div>
 </header>
